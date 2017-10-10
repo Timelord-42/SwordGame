@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=KeyboardInput
+comment0.text=\r\n\ \ A\ simple\ input\ class\ to\ read\ values\ typed\ at\ the\ command\ line.\ If\ an\ error\r\n\ \ occurs\ during\ input,\ any\ exceptions\ thrown\ are\ caught\ and\ a\ default\ value\r\n\ \ returned.\r\n\r\n@author\ \ \ \ \ Graham\ Roberts\r\n@author\ \ \ \ \ Russel\ Winder\r\n@version\ \ \ \ 1.2\ Oct\ 2002\r\n
+comment1.params=
+comment1.target=int\ readInteger()
+comment1.text=\r\n\ \ Read\ an\ <CODE>int</CODE>\ value\ from\ keyboard\ input.\r\n\r\n@return\ \ \ \ The\ integer\ value\ read\ in,\ or\ zero\ if\ the\ input\ was\ invalid.\r\n
+comment2.params=
+comment2.target=long\ readLong()
+comment2.text=\r\n\ \ Read\ a\ <CODE>long</CODE>\ value\ from\ keyboard\ input.\r\n\r\n@return\ \ \ \ The\ long\ value\ read\ in,\ or\ 0L\ if\ the\ input\ was\ invalid.\r\n
+comment3.params=
+comment3.target=double\ readDouble()
+comment3.text=\r\n\ \ Read\ a\ <CODE>double</CODE>\ value\ from\ keyboard\ input.\r\n\r\n@return\ \ \ \ The\ double\ value\ read\ in,\ or\ 0.0\ if\ the\ input\ was\ invalid.\r\n
+comment4.params=
+comment4.target=float\ readFloat()
+comment4.text=\r\n\ \ Read\ a\ <CODE>float</CODE>\ value\ from\ keyboard\ input.\r\n\r\n@return\ \ \ \ The\ float\ value\ read\ in,\ or\ 0.0F\ if\ the\ input\ was\ invalid.\r\n
+comment5.params=
+comment5.target=char\ readCharacter()
+comment5.text=\r\n\ \ Read\ a\ <CODE>char</CODE>\ value\ from\ keyboard\ input.\r\n\r\n@return\ \ \ \ The\ char\ value\ read\ in,\ or\ '\ '\ (space)\ if\ the\ input\ was\ invalid.\r\n
+comment6.params=
+comment6.target=java.lang.String\ readString()
+comment6.text=\r\n\ \ Read\ an\ <CODE>String</CODE>\ value\ from\ keyboard\ input.\r\n\r\n@return\ \ \ \ The\ String\ value\ read\ in.\r\n
+numComments=7
