@@ -2,10 +2,11 @@ import java.util.Random;
 
 public class Battle
 {
+    boolean battle = true;
     Random rand;
     int battlefield_size;
-    int Player1_pos;
-    int Player2_pos;
+    Player player1;
+    Player player2;
     boolean P11st = false;
     boolean P21st = false;
 }
