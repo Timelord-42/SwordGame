@@ -4,7 +4,7 @@ public class SwordGame
     {
         KeyboardInput input = new KeyboardInput();
         boolean game = true;
-        
+        System.out.println("some sort of sword fighting game - alpha build:0.0.5");
         while(game==true)
         {
             
